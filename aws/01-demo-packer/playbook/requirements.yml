@@ -1,0 +1,14 @@
+- name: geerlingguy.jenkins
+  src: https://github.com/geerlingguy/ansible-role-jenkins.git
+
+- name: geerlingguy.java
+  src: https://github.com/maxstack/ansible-role-java.git
+
+- name: geerlingguy.docker
+  src: https://github.com/geerlingguy/ansible-role-docker.git
+
+- name: linuxhq.selinux
+  src: https://github.com/linuxhq/ansible-role-selinux.git
+
+- name: maxstack.jenkins-support
+  src: https://github.com/maxstack/ansible-role-jenkins-support.git

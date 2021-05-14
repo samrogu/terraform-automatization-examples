@@ -1,0 +1,8 @@
+GCP/*.docx
+GCP/terraform-key.json
+GCP/*/.terraform
+GCP/*/*.tfstate
+GCP/*/*.tfstate.backup
+AWS/.aws/*
+AWS/02-demo-terraform/.terraform/
+AWS/03-demo-jenkins/.terraform/
