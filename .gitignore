@@ -6,3 +6,6 @@ GCP/*/*.tfstate.backup
 AWS/.aws/*
 AWS/02-demo-terraform/.terraform/
 AWS/03-demo-jenkins/.terraform/
+AWS/*/.terraform
+AWS/*.tfstate
+AWS/*/*.terraform.lock.hcl
